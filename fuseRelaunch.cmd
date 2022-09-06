@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "C:/Users/Michael/Documents/ECE414_group2_lab1/CPU_16_Bit_RISC/tb_topLevel_isim_beh.exe" -prj "C:/Users/Michael/Documents/ECE414_group2_lab1/CPU_16_Bit_RISC/tb_topLevel_beh.prj" "work.tb_topLevel" "work.glbl" 

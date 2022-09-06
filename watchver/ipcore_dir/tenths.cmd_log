@@ -1,0 +1,1 @@
+xst -ise "D:/ISE_Examples/watch_sc/ipcore_dir/tenths.ise" -intstyle ise -ifn "D:/ISE_Examples/watch_sc/ipcore_dir/tenths.xst" -ofn "D:/ISE_Examples/watch_sc/ipcore_dir/tenths.syr" 

@@ -1,0 +1,10 @@
+//! **************************************************************************
+// Written by: Map P.20131013 on Mon Dec 06 23:30:49 2021
+//! **************************************************************************
+
+SCHEMATIC START;
+COMP "reset" LOCATE = SITE "F15" LEVEL 1;
+COMP "UART_TX" LOCATE = SITE "D4" LEVEL 1;
+COMP "clk" LOCATE = SITE "E3" LEVEL 1;
+SCHEMATIC END;
+

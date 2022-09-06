@@ -1,0 +1,43 @@
+Release 14.7 ngdbuild P.20131013 (nt)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+
+Command Line: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt\unwrapped\ngdbuild.exe -intstyle
+ise -dd _ngo -sd ipcore_dir -nt timestamp -uc top_level.ucf -bm tb_top_level.bmm
+-p xc7a100t-csg324-1 top_level.ngc top_level.ngd
+
+Reading NGO file "C:/Users/Nelson/Desktop/CPU_16_Bit_RISC/top_level.ngc" ...
+Loading design module "ipcore_dir/ip_rom_input_code.ngc"...
+Loading design module "ipcore_dir/ip_ram_output_code.ngc"...
+Gathering constraint information from source properties...
+Done.
+
+Annotating constraints to design from ucf file "top_level.ucf" ...
+Resolving constraint associations...
+Checking Constraint Associations...
+Done...
+
+Processing BMM file "tb_top_level.bmm" ...
+
+WARNING::53 - File 'tb_top_level.bmm' is empty or has no BMM content.
+
+
+Checking expanded design ...
+
+Partition Implementation Status
+-------------------------------
+
+  No Partitions were found in this design.
+
+-------------------------------
+
+NGDBUILD Design Results Summary:
+  Number of errors:     0
+  Number of warnings:   0
+
+Total memory usage is 162120 kilobytes
+
+Writing NGD file "top_level.ngd" ...
+Total REAL time to NGDBUILD completion:  7 sec
+Total CPU time to NGDBUILD completion:   6 sec
+
+Writing NGDBUILD log file "top_level.bld"...

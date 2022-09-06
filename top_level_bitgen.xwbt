@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Users\Nelson\Desktop\CPU_16_Bit_RISC\top_level.ncd
+OUTFILE=C:\Users\Nelson\Desktop\CPU_16_Bit_RISC\top_level.bit
+FAMILY=Artix7
+PART=xc7a100t-1csg324
+WORKINGDIR=C:\Users\Nelson\Desktop\CPU_16_Bit_RISC
+LICENSE=WebPack
+USER_INFO=212282249_0_0_453
